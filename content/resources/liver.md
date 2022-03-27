@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d52ad121-b13a-4d97-6a70-287ea5002f59
 resourcetype: Document
 title: liver.pdf
 uid: dd4a31ac-5a86-22c3-62af-ee1950d91238

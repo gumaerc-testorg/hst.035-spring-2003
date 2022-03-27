@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d52ad121-b13a-4d97-6a70-287ea5002f59
 resourcetype: Document
 title: tissuerepair2003.pdf
 uid: 087feb98-2952-7fca-b328-6112d8b21dfd

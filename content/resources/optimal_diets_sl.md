@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d52ad121-b13a-4d97-6a70-287ea5002f59
 resourcetype: Document
 title: optimal_diets_sl.pdf
 uid: 17392456-57cf-451e-9f6b-6a732565f453

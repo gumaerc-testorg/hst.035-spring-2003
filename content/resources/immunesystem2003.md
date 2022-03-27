@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d52ad121-b13a-4d97-6a70-287ea5002f59
 resourcetype: Document
 title: immunesystem2003.pdf
 uid: 278b963f-c15b-47ff-7fc8-e00f4a2dbf57

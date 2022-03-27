@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d52ad121-b13a-4d97-6a70-287ea5002f59
 resourcetype: Document
 title: cellinjury_2003.pdf
 uid: 5d9fc831-4909-24cb-f1c6-daa3a4f26d9d
