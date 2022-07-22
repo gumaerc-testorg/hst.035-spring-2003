@@ -5,6 +5,7 @@ file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/173
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: optimal_diets_sl.pdf
 uid: 17392456-57cf-451e-9f6b-6a732565f453
 ---
 Slides from a presentation by guest lecturer Dr. Frank B. Hu.
-

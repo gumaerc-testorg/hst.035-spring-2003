@@ -5,6 +5,7 @@ file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/278
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: immunesystem2003.pdf
 uid: 278b963f-c15b-47ff-7fc8-e00f4a2dbf57
 ---
 Slides for a lecture presentation.
-

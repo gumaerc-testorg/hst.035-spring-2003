@@ -5,6 +5,7 @@ file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/9c1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: inflammation2003.pdf
 uid: 9c1470fc-bf28-966f-4c77-e08b4cedc226
 ---
 Slides for a lecture presentation.
-

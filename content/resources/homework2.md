@@ -5,6 +5,7 @@ file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/a3a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework2.pdf
 uid: a3a2a0ca-40e7-7714-c748-e3b423115833
 ---
 Homework problems.
-

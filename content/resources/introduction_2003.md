@@ -5,6 +5,7 @@ file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/816
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: introduction_2003.pdf
 uid: 81621847-6434-2203-3c23-057a0fef3df2
 ---
 Introduction to Pathology and Diagnostic Medicine: Dr. Badizedigan
-

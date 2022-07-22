@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Artistic rendition of a kidney glomerulus.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-035s03-th.jpg
 uid: 7bfef034-6881-1004-0680-75a63d1fa2f0
 ---
 New image Upload
-
