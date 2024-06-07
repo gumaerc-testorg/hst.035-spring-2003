@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for a lecture presentation.
 file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/9c1470fcbf28966f4c77e08b4cedc226_inflammation2003.pdf
+file_size: 2910421
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

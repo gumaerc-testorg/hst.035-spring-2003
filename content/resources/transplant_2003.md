@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides from a presentation by guest lecturer Dr. Robert B. Colvin.
 file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/afdef6075b0745fb14d63e0e478eea3f_transplant_2003.pdf
+file_size: 1124404
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
