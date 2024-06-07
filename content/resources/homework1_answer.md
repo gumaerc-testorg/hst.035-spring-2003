@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework problems with solutions.
 file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/db9f902607bda95095f5ac45181c2646_homework1_answer.pdf
+file_size: 400223
 file_type: application/pdf
 learning_resource_types:
 - Assignments
