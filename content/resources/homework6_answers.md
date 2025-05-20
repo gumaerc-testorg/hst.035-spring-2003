@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework problems with solutions.
-file: /ol-ocw-studio-app/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/0c44f58b0c27bf59c196c4683e3af465_homework6_answers.pdf
+file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/0c44f58b0c27bf59c196c4683e3af465_homework6_answers.pdf
 file_size: 196521
 file_type: application/pdf
 learning_resource_types:

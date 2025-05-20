@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for a lecture presentation.
-file: /ol-ocw-studio-app/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/b4b75720d8853d4a5ea605e9415e55a9_genetics_2003.pdf
+file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/b4b75720d8853d4a5ea605e9415e55a9_genetics_2003.pdf
 file_size: 1216189
 file_type: application/pdf
 learning_resource_types:

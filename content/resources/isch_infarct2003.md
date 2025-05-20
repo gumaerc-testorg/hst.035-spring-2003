@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for a lecture presentation.
-file: /ol-ocw-studio-app/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/fcfb1cb00f34bfb6c4c7e645fe572e53_isch_infarct2003.pdf
+file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/fcfb1cb00f34bfb6c4c7e645fe572e53_isch_infarct2003.pdf
 file_size: 666509
 file_type: application/pdf
 learning_resource_types:
