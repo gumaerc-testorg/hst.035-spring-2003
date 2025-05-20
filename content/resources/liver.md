@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for a lecture presentation.
-file: /ol-ocw-studio-app/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/dd4a31ac5a8622c362afee1950d91238_liver.pdf
+file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/dd4a31ac5a8622c362afee1950d91238_liver.pdf
 file_size: 3066836
 file_type: application/pdf
 learning_resource_types:
