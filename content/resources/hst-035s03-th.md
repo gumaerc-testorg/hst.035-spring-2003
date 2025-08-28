@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/7bfef03468811004068075a63d1fa2f0_hst-035s03-th.jpg
+file: /ol-ocw-studio-app/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/7bfef03468811004068075a63d1fa2f0_hst-035s03-th.jpg
 file_size: 23824
 file_type: image/jpeg
 image_metadata:
