@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides from a presentation by guest lecturer Dr. Frank B. Hu.
-file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/1739245657cf451e9f6b6a732565f453_optimal_diets_sl.pdf
+file: /ol-ocw-studio-app/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/1739245657cf451e9f6b6a732565f453_optimal_diets_sl.pdf
 file_size: 1322367
 file_type: application/pdf
 learning_resource_types:

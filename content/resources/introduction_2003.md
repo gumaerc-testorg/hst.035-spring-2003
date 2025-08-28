@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Introduction to Pathology and Diagnostic Medicine: Dr. Badizedigan'
-file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/81621847643422033c23057a0fef3df2_introduction_2003.pdf
+file: /ol-ocw-studio-app/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/81621847643422033c23057a0fef3df2_introduction_2003.pdf
 file_size: 842818
 file_type: application/pdf
 learning_resource_types:
