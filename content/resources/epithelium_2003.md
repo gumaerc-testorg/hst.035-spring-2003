@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for a lecture presentation.
-file: /courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/f2029708f1b4272040836965f1235662_epithelium_2003.pdf
+file: /ol-ocw-studio-app/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/f2029708f1b4272040836965f1235662_epithelium_2003.pdf
 file_size: 3042776
 file_type: application/pdf
 learning_resource_types:
